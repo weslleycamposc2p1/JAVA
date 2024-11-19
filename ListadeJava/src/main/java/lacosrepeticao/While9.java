@@ -16,6 +16,7 @@ public class While9 {
 
                 System.out.println("coloque idade");
                 idade = pessoas.nextInt();
+                pessoas.nextLine();
 
 
         while(n<5){
