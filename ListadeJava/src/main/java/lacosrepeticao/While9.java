@@ -27,6 +27,5 @@ public class While9 {
         media = soma/5;
         System.out.println("media das idades " + media);
 
-
     }
 }
