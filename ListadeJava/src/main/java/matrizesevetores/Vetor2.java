@@ -11,17 +11,20 @@ public class Vetor2 {
 
         Scanner soma = new Scanner(System.in);
 
+        int resultado=0;
 
         List<Integer> lista = new ArrayList<Integer>();
         for (int n = 0; n <10; n++) {
-            System.out.println("Digite um numero: ");
+            System.out.print("Digite um numero: ");
             lista.add(soma.nextInt());
         }
 
         
-        for (int)
-        System.out.println(lista);
+        for(int mais:lista){
+            resultado+=mais;
+        }
 
+        System.out.println(resultado);
 
     }
 }
