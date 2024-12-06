@@ -20,13 +20,9 @@ public class Vetor15 {
         }
 
 
-
         System.out.println(lista);
         Collections.sort(lista);
         System.out.println(lista);
-
-
-
 
 
     }
