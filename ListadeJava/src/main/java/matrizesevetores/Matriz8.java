@@ -25,7 +25,7 @@ public class Matriz8 {
 
         System.out.println(menor);
         entrada.close();
-        
+
 
     }
 }
